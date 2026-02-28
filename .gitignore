@@ -1,0 +1,13 @@
+#VirtualBox  / VMs
+*.vdi
+*.vbox
+*.vbox-prev
+*.log
+
+#OS files
+.DS_Store
+Thumbs.dp
+
+#Logs
+*.log
+*.tmp
